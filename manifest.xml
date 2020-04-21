@@ -2,6 +2,6 @@
 <manifest>
   <project name="lenovo-devs/android_device_lenovo_TB8504" path="device/lenovo/TB8504" remote="github" />
   <project name="lenovo-devs/android_device_lenovo_tb-common" path="device/lenovo/tb-common" remote="github" revision="lineage-16.0-msm8937"/>
-  <project name="lenovo-devs/android_kernel_lenovo_msm8953" path="kernel/lenovo/msm8953" remote="github" revision="lineage-16.0-tb8504" />
+  <project name="darran-kelinske-fivestars/android_kernel_lenovo_msm8953" path="kernel/lenovo/msm8953" remote="github" revision="lineage-16.0-tb8504-fivestars" />
   <project name="lenovo-devs/proprietary_vendor_lenovo" path="vendor/lenovo" remote="github" revision="lineage-16.0-msm8937" />
 </manifest>
